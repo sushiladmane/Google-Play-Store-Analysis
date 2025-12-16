@@ -57,13 +57,6 @@ The project combines **Python for data cleaning & analysis** and **Power BI for 
 
 ---
 
-## 📸 Dashboard Preview
-![Overview](images/overview_page.png)
-![Category](images/category_page.png)
-![App Details](images/app_details_page.png)
-
----
-
 ## 📄 Report
 A detailed **PowerPoint report** is included explaining:
 - Business problem
