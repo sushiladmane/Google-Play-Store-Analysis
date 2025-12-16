@@ -71,4 +71,10 @@ A detailed **PowerPoint report** is included explaining:
 1. Clone the repository  
 2. Open the notebook in Jupyter  
 3. Install dependencies:
+4. Open Power BI file to explore the dashboard
+
+---
+
+## 👤 Author
+**Sushil Admane**  
 # Google-Play-Store-Analysis
